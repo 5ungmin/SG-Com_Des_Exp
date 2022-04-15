@@ -18,6 +18,4 @@ This lecture consists of
 > 
 > Final Project
 
-### PLEASE USE IT ONLY FOR STUDY PURPOSES.
-
-It is very helpful to try to solve the problem on your own first.
+(정답지가 아닙니다.)
